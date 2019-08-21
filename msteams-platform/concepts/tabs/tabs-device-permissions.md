@@ -15,6 +15,9 @@ You might want to enrich your tab with features that require access native devic
 * Location
 * Notifications
 
+> [!NOTE]
+> Device permissions are currently not available for use on Microsoft Teams mobile clients.
+
 ![Device Permissions settings screen](~/assets/images/tabs/device-permissions.png)
 
 ## Device permissions
